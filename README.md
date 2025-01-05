@@ -28,7 +28,7 @@
 ### [Linear Regression LSM Normal](Linear-Regression/LinearRegressionNumpy.ipynb)
 * #### Notebook going over how to do linear regression using Least Squares Method along with using matrix theory and the normal equation
 
-### [Linear Regression using Gradient Descent](Linear-Regression/LinearRegressionUsingPackages.ipynb)
+### [Linear Regression using packages](Linear-Regression/LinearRegressionUsingPackages.ipynb)
 * #### Notebook showing the different packages out there that can do linear regression. There are of course other packages that could do it, but this shows the 3 most popular
 
 ### [Linear Regression Logan's example](Linear-Regression/Data_Science_Camp_Linear_Regression.ipynb)
@@ -38,7 +38,7 @@
 ### [Logistic Regression using Gradient Descent](Logistic-Regression/LogisticRegressionGradDescent.ipynb)
 * #### Notebook going over how to do logistic regression using gradient descent by hand 
 
-### [Logistic Regression using Gradient Descent](Logistic-Regression/LogisticRegressionPyTorch.ipynb)
+### [Logistic Regression using PyTorch](Logistic-Regression/LogisticRegressionPyTorch.ipynb)
 * #### Notebook going over how to do logistic regression using PyTorch
 
 ### [Logistic  Regression Logan's example](Logistic-Regression/LogRegressionLogan.ipynb)
@@ -69,7 +69,7 @@
 ### [Impulse Response](control-systems/ImpulseResponse.ipynb)
 * #### An example notebook showing the different types of simulus to a system
 
-### [first vs second order system](control-systems/first_v_second_order_system.ipynb)
+### [first vs second order system](control-systems/first_vs_second_order_system.ipynb)
 * #### Shows an example of different simulus to a first and second order system
 
 ### [discrete vs continuous](control-systems/discrete_vs_continuous.ipynb)

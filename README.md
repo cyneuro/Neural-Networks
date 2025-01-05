@@ -13,6 +13,7 @@
 ### [Long Short Term Memory Networks](#long-short-term-memory-networks-1)
 ### [Other Network Structures](#other-network-structures-1)
 ### [Stats review](#stats-review-1)
+### [Control Systems](#control-systems-1)
 
 ## Gradient Descent
 ### [Gradient Descent 1](Gradient-Descent/GradientDescent1.ipynb)
@@ -58,22 +59,6 @@
 ### [XOR Example 4](XOR_notebooks/XOR_PyTorch_ByHand.ipynb)
 ### [Intro to PyTorch with XOR example](XOR_notebooks/Introduction_to_PyTorch.ipynb)
 * #### Covers what the super position theory is and gives an example
-
-## Control systems
-### [Super position](control-systems/superposition.ipynb)
-* #### Covers what the super position theory is and gives an example
-
-### [Convolve](control-systems/convolve.ipynb)
-* #### Gives an example of summed impulse response vs np convolve function
-
-### [Impulse Response](control-systems/ImpulseResponse.ipynb)
-* #### An example notebook showing the different types of simulus to a system
-
-### [first vs second order system](control-systems/first_vs_second_order_system.ipynb)
-* #### Shows an example of different simulus to a first and second order system
-
-### [discrete vs continuous](control-systems/discrete_vs_continuous.ipynb)
-* #### shows the differences for the two types of inputs when modeling an input
 
 ## Convolutional Neural Network
 ### [Intro to CNN](CNN/Convolutional_Neural_Network.ipynb)
@@ -137,7 +122,20 @@
 ### [Different distribution](stats/Probability_Noise_PSD_example.ipynb)
 * #### A notebook showing how to generate different distributions and small details about each distribution
 
+## Control systems
+### [Super position](control-systems/superposition.ipynb)
+* #### Covers what the super position theory is and gives an example
 
+### [Convolve](control-systems/convolve.ipynb)
+* #### Gives an example of summed impulse response vs np convolve function
 
+### [Impulse Response](control-systems/ImpulseResponse.ipynb)
+* #### An example notebook showing the different types of simulus to a system
+
+### [first vs second order system](control-systems/first_vs_second_order_system.ipynb)
+* #### Shows an example of different simulus to a first and second order system
+
+### [discrete vs continuous](control-systems/discrete_vs_continuous.ipynb)
+* #### shows the differences for the two types of inputs when modeling an input
 
 

@@ -58,7 +58,6 @@
 ### [XOR Example 3](XOR_notebooks/XOR_perceptron.ipynb)
 ### [XOR Example 4](XOR_notebooks/XOR_PyTorch_ByHand.ipynb)
 ### [Intro to PyTorch with XOR example](XOR_notebooks/Introduction_to_PyTorch.ipynb)
-* #### Covers what the super position theory is and gives an example
 
 ## Convolutional Neural Network
 ### [Intro to CNN](CNN/Convolutional_Neural_Network.ipynb)
